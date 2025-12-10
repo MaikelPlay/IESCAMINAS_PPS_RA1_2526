@@ -17,4 +17,4 @@ Se ha completado la simulación de trabajo con repositorios remotos (clone, push
 ![Evidencia Nivel Remote](./remote.png)
 
 ---
-*Capturas realizadas por el alumno para la Práctica Puntuable RA1.*
+*Capturas realizadas por Mikel Jordan Moral para la Práctica Puntuable RA1.*
